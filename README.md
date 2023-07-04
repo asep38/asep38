@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asep38&label=Profile%20views&color=0e75b6&style=flat" alt="asep38" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asep38" alt="asep38" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [asep.kriyautama.com](asep.kriyautama.com)
 
 - 📝 I regularly write articles on [blog.asep.kriyautama.com](blog.asep.kriyautama.com)
