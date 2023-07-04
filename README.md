@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/@asepzarkasihnoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asepzarkasihnoor" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/asepzarkasihnoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="asep zarkasih noor" height="30" width="40" /></a>
+<a href="https://www.instagram.com/asepzarkasihnoor/" target="blank_"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asepzarkasihnoor" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCnOL7WkjPcMmRFuZM4j_KaQ" target="blank_"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="asep zarkasih noor" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
